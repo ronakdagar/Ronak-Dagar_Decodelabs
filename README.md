@@ -1,4 +1,4 @@
- Project 1 Title: Data Collection & Dataset Understanding
+📊 Project Title: Data Collection & Dataset Understanding
 
 In this project, I worked on a real-world Vehicle Dataset and focused on exploring and understanding the data structure by:
 

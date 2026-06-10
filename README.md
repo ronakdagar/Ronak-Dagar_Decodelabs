@@ -11,6 +11,9 @@ In this project, I worked on a real-world Vehicle Dataset and focused on explori
 
 🔍 Key Outcome:
 Gained a clear understanding of the vehicle dataset with:
+
 ✅ Full clarity on all features and their data types
+
 ✅ Dataset size and structure documented
+
 ✅ A strong foundation laid for Data Cleaning, EDA & Visualization
